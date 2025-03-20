@@ -1,3 +1,8 @@
+# Slothpete's TODO
+
+- [_] config email service
+
+
 # Huly Self-Hosted
 
 Please use this README if you want to deploy Huly on your server with `docker compose`. I'm using a Basic Droplet on Digital Ocean with Ubuntu 24.04, but these instructions can be easily adapted for any Linux distribution.
